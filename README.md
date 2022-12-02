@@ -1,2 +1,2 @@
 # trials
-trials for a company
+trials for a com
